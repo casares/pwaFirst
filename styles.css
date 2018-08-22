@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 2em;
+}
+h1{
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+}
+
+select{
+    float: right;
+}
+.article{
+    padding: 2em;
+}
+.article a{
+    text-decoration: none;
+    color: rgb(63, 62, 62);
+}
+.article img{
+    max-width: 100%;
+    height: auto;
+}
+
+main{
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+}
